@@ -11,3 +11,16 @@ which will be easier to manage everything in one place.
 
 I have decided to follow the tutorial that can be found at the following link:
 https://aws.amazon.com/getting-started/hands-on/build-react-app-amplify-graphql/
+
+The tutorial is split into a few different modules, and for each module I am going 
+to write what I learned from completing it and if relevant what more I would like to 
+learn in the future. Please keep in mind that this paper is being written as I complete
+the project, so it will be chronological order.
+
+I have now completed the first module. This module walked me through having a default
+static page created using npx and npm and deploying it from a github account using 
+AWS Amplify. This is the most basic website that can be deployed and the process is
+very streamlined, AWS seems to do almost all of the work for the user including building
+and deploying it on the cloud for you. Something I did not expect was how automated and simple
+it was to have AWS connect and get permissions for the github, as now any changes to my master branch
+on hithub will be reflected in the website.
