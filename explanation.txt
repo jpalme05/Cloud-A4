@@ -1,0 +1,13 @@
+When deciding on what I wanted to do for this assignment I was originally very lost
+as to what I wanted to do and what would be something that is enjoyable. I decided to
+first select a platform to use which was out of Azure or AWS. This is because after 
+some research they are the most popular cloud services, with AWS being far and away the 
+most used. This  means that AWS is the platform I will focus on. From here I have to decide
+on a service that will be widely useful. This has lead me to AWS Amplify, a service that makes
+it easy to create a website and host it. I chose this because all companies that currently
+exist or will in the future are going to need a functional website for their business.
+Being able to do this through the cloud will mean more things can be kept in the AWS eco-system,
+which will be easier to manage everything in one place. 
+
+I have decided to follow the tutorial that can be found at the following link:
+https://aws.amazon.com/getting-started/hands-on/build-react-app-amplify-graphql/
